@@ -1,4 +1,8 @@
-# xclone
+# XClone
+
+It's a clone of the X social network to practice backend and frontend skills.
+
+---
 
 To install dependencies:
 
