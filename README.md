@@ -5,6 +5,7 @@ It's a clone of the X social network to practice backend and frontend skills.
 # Tech
 
 - Bun
+- Typescript
 - Hono
 - Sequelize - ORM
 - JWT
