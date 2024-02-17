@@ -18,5 +18,7 @@ Followers.init(
       defaultValue: DataTypes.NOW,
     },
   },
-  { sequelize: database, timestamps: false }
+  { sequelize: database, timestamps: false, modelName: "Followers" }
 );
+
+export default Followers;
